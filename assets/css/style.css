@@ -1,0 +1,60 @@
+/*NAVBAR*/
+.navbar {
+	background: #292b2c;
+}
+
+#navbar-brand{
+	color: white;
+}
+
+#nav-item{
+	color: white;
+}
+
+.nav-link{
+	color: white;
+}
+
+/*JUMBOTRON*/
+
+.jumbotron {
+	background-image: url("../images/book.jpeg");
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.display-3 {
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+.lead {
+	color: white;
+	text-align: center;
+
+
+}
+
+.secondary{
+	color: white;
+	text-align: center;
+
+}
+
+.btn{
+	color: ;
+}
+
+/*TEXT AFTER JUMBOTRON*/
+.after-jumbotron{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+/*CAROUSEL*/
+#carousel{
+	display: block;
+	margin-left: 15%;
+	margin-bottom: 30px;
+}
